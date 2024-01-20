@@ -6,7 +6,7 @@
 HTML
 CSS con Flexbox
 <h3>¿Cómo Iniciar?</h3>
-1_Clona este repositorio.
-2_Abre el archivo index.html en tu navegador favorito.
-3_¡Explora el mundo del rock!
+<p>1_Clona este repositorio.</p>
+<p>2_Abre el archivo index.html en tu navegador favorito.</p>
+<p>3_¡Explora el mundo del rock!</p>
 🎸 ¡Gracias por visitar mi página web! 🤟
